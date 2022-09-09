@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T05:16:38.865Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="20.2.8" etag="KoOeyq1-eU1hgjy6xC78" type="github"><diagram id="5GYQ2U7r8JJq7BTlcr5f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-09T05:24:19.227Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="jh_imuT2z3e-VljC22oQ" version="20.2.8" type="github">
+  <diagram id="5GYQ2U7r8JJq7BTlcr5f" name="Halaman-1">
+    <mxGraphModel dx="1695" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H17Zj6Kdb7Cbpdlfnnfd-1" value="admin" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="200" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="H17Zj6Kdb7Cbpdlfnnfd-5" value="leaflet" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="20" width="160" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="H17Zj6Kdb7Cbpdlfnnfd-12" value="open street map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H17Zj6Kdb7Cbpdlfnnfd-5">
+          <mxGeometry x="40" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H17Zj6Kdb7Cbpdlfnnfd-6" value="database" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="20" width="160" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="H17Zj6Kdb7Cbpdlfnnfd-13" value="tersimpan pada databse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H17Zj6Kdb7Cbpdlfnnfd-6">
+          <mxGeometry x="20" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H17Zj6Kdb7Cbpdlfnnfd-7" value="admin" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="20" width="160" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="H17Zj6Kdb7Cbpdlfnnfd-8" value="mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H17Zj6Kdb7Cbpdlfnnfd-7">
+          <mxGeometry x="45" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H17Zj6Kdb7Cbpdlfnnfd-10" value="admin menambahkan data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H17Zj6Kdb7Cbpdlfnnfd-7">
+          <mxGeometry x="25" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H17Zj6Kdb7Cbpdlfnnfd-9" value="user" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="20" width="160" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="H17Zj6Kdb7Cbpdlfnnfd-14" value="perangkat pengguna" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H17Zj6Kdb7Cbpdlfnnfd-9">
+          <mxGeometry x="25" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
